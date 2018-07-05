@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1530805278358_10" label="java" name="java"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1530805297759_11" label="php" name="php">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BattlefieldWebP" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1530805314878_12" label="python" name="python"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1530804524603_3" label="Window Working Set" name="Aggregate for window 1530804524602"/>
+<mruList name="php"/>
+</workingSetManager>

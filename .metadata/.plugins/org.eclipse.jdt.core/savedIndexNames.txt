@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+\\192.168.86.129\c\Battlefield\.metadata\.plugins\org.eclipse.jdt.core
