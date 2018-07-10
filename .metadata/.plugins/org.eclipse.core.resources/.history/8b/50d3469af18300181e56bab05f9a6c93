@@ -1,0 +1,7 @@
+<?php
+	
+	abstract class EcodingNum{
+		const UTF-8 = UTF-8;
+		const UTF8 = UTF8;
+	}
+?>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="1" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="git://github.com/pengxiaobai/Battlefield.git"/>
+		<item value="1033180006%40qq.com@github.com:pengxiaobai/Battlefield.git"/>
+	</list>
+	<section name="GitImportWizard">
+	</section>
+</section>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>登陆</title>
+		<?php
+			include "../common/main_header.php";	
+		?>
+	</head>
+	<body>
+		
+	</body>
+</html>
