@@ -33,6 +33,18 @@ Battlefield（战场）
 开发平台：win10
 
 
-BattlefieldWebP---php开发
-BattlefieldWebJ---java开发
-BattlefieldP----python开发
+BattlefieldWebP---php开发<br/>
+BattlefieldWebJ---java开发<br/>
+BattlefieldP----python开发<br/>
+
+BattlefieldWebP模块设计<br/>
+common---存放php公共模块<br/>
+conf -- 存放php相关的文件<br/>
+	 db---数据库相关的配置<br/>
+core---php核心模块<br/>
+	service ---逻辑处理<br/>
+	dao ---数据操作层<br/>
+statis--静态资源和页面<br/>
+	common--静态资源公共资源<br/>
+		css--
+
