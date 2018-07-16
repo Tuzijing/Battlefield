@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>BATTLEFIELD</title>
+ 		<!--
+        	作者：offline
+        	时间：2018-07-10
+        	描述：引入公共前端配置文件
+        -->
+		<?php
+			include "../common/encoding.php";
+			include "../common/main_header.php";	
+		?>
+		
+		<link rel="stylesheet" href="../../common/css/fram/fram.css"/>
+		
+		<script type="text/javascript" src="../../common/js/fram/fram.js"></script>
+	</head>
+	<body>
+		<div id="fram_container">
+			<div id="fram_search">
+					<div class="input-group">
+						<input type="text" class="form-control" placeholder="twitterhandle">
+						<span class="input-group-addon">@</span>
+					</div>
+			</div>
+			<div id="fram_categorys"></div>
+		</div>
+	</body>
+</html>

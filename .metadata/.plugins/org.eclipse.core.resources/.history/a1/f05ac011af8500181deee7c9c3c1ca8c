@@ -1,0 +1,9 @@
+<?php
+	
+	class Person{
+		public const I = 1;
+		
+	}
+	
+	Person person = new Person();
+?>

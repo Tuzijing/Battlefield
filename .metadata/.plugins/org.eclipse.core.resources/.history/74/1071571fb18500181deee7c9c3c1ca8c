@@ -1,0 +1,10 @@
+<?php
+	
+	class Person{
+		  const I = 1;
+		
+	}
+	
+	$pers = new Person();
+	echo Person::I;
+?>

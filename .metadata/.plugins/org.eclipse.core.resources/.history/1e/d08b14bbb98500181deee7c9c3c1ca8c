@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>BATTLEFIELD</title>
+ 		<!--
+        	作者：offline
+        	时间：2018-07-10
+        	描述：引入公共前端配置文件
+        -->
+		<?php
+			include "../common/encoding.php";
+			include "../common/main_header.php";	
+		?>
+		
+		<link rel="stylesheet" href="../../common/css/fram/fram.css"/>
+		
+	</head>
+	<body>
+		
+	</body>
+</html>

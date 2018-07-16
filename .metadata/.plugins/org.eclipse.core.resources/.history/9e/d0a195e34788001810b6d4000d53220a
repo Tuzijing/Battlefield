@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color: #101a1d;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid red
+}
+
+/*fram 容器*/
+#fram_container{
+	margin:0px;
+	padding:0xp;
+	width: 100%;
+	height: 100%;
+	line-height: 0px;
+	z-index: 1000;
+
+}
+
+/*搜索框*/
+#fram_search{
+	margin:0px;
+	padding:0px;
+	width: 100%;
+	height: 70px; 
+	line-height: 0px;
+}
+/*设置一个遮罩*/
+#mask{
+	margin-top:0px;
+	width: 100%;
+	height: 70px; 
+	position: fixed;
+	z-index:1000;
+	background-color: #101a1d;
+	line-height: 0px;
+}
+ 
+.input-group{
+	margin-left:100px;
+	width:80%;
+	height: 60px; 
+}
+
+.input-group input{ 
+	border-top-right-radius:0px; 
+	border-bottom-right-radius:0xp;
+	height: 60px;
+}
+.input-group button {
+	position: absolute;/*采用绝对定位 取消换行*/
+	border-top-left-radius:0px; 
+	border-bottom-left-radius:0px; 
+	height: 60px;
+	width: 100px;
+}
+
+
+#fram_categorys {
+	margin-top: 30px;
+}
+#fram_categorys .panel{
+	display:inline-block;
+	margin-left:100px;
+	width: 40%; 
+}

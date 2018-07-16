@@ -29,12 +29,35 @@
 		<div id="login_container">
 			<div id="login_title"><span>BATTLEFIELD</span></div>
 			<div id="login_content">
-				<div class="input-group">
-					<span id="login_user">USERNAME</span>
-					<input type="text" class="form-control" placeholder="username"/>
-				</div>
+				<form class="bs-example bs-example-form" role="form">
+					<div id="login_user" class="input-group">
+						<span  class="input-group-addon">USERNAME</span>
+						<input type="text" class="form-control" placeholder="username"
+						maxlength="10"/>
+					</div>
+					<div id="login_password" class="input-group">
+						<span class="input-group-addon">PASSWORD</span>
+						<input type="password" class="form-control" placeholder="password"
+						maxlength="20"/>
+					</div>
+					<div id="login_btn_div">
+						<button type="button" id="login_btn" class="btn btn-success">登陆</button>
+					</div>
+<!-- 					<div id="login_msg"> -->
+<!-- 						<div id="myAlert" class="alert alert-success"> -->
+<!-- 	<a href="#" class="close" data-dismiss="alert">&times;</a> -->
+<!-- 	<strong>成功！</strong>结果是成功的。 -->
+<!-- </div> -->
+<!-- <div id="myAlert" class="alert alert-warning"> -->
+<!-- 	<a href="#" class="close" data-dismiss="alert">&times;</a> -->
+<!-- 	<strong>警告！</strong>您的网络连接有问题。 -->
+<!-- </div> -->
+					</div>
+				</form>
 			</div>
-		</div>
+		</div> 
+	</body>
+	
 		
 		
 		<!--
@@ -48,5 +71,4 @@
 					setLoginContainer("login_container");
 				}
 		</script>
-	</body>
 </html>

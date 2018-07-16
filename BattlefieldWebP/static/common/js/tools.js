@@ -5,8 +5,8 @@
 function getBrowserWidthAndHeight(){
 	var arr = {width:0,height:0};
 	try{
-		var width = document.body.clientWidth || window.innerWidth;
-		var height = document.body.clientHeight || window.innerHeight;
+		var width = window.innerWidth;
+		var height = window.innerHeight;
 		arr["width"] = width;
 		arr["height"] = height;
 	}catch(err){

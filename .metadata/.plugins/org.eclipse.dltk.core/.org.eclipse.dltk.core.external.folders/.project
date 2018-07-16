@@ -8,11 +8,4 @@
 	</buildSpec>
 	<natures>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>.link1</name>
-			<type>2</type>
-			<location>//192.168.86.129/c/Battlefield/.metadata/.plugins/org.eclipse.php.core/__language__/2dacb9da</location>
-		</link>
-	</linkedResources>
 </projectDescription>

@@ -1,0 +1,36 @@
+﻿div{
+	border: 1px solid red;
+}
+
+/**
+ * 登陆格式容器
+ */
+#login_container{
+	width: 600px;
+	height: 500px;
+}
+
+/**
+ * 登陆标题
+ */
+#login_title{
+	text-align: center;
+	font-size: 30px;
+	font-family: "arial, helvetica, sans-serif";
+	text-shadow: 5px 5px 5px #00f0f0;/*设置字体地阴影*/
+}
+
+/*登陆账号*/
+#login_user{
+	margin-bottom: 3px;
+	height:50px;
+}
+
+#login_password{
+	margin-bottom: 3px;
+	height:50px;
+}
+#login_btn{
+	width:100px;
+	height:50px;
+}

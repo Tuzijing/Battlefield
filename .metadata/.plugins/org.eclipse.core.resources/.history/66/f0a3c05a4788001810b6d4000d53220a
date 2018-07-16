@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>BATTLEFIELD</title>
+ 		
+	</head>
+	<body> 
+		<div style="border: 1px solid red"></div>
+	</body>
+	
+</html>

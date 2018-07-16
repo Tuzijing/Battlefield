@@ -10,5 +10,5 @@ function setLoginContainer(lableById){
 	console.log("执行");
 	var arr = getBrowserWidthAndHeight(); //获取浏览器的宽度与高度
 	console.log(arr);
-	center(lableById,arr["width"],arr["height"],255,30);
+	center(lableById,arr["width"],arr["height"],290,140);
 }

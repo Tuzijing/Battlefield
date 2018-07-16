@@ -46,9 +46,9 @@ core---php核心模块<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;dao ---数据操作层<br/>
 statis--静态资源和页面<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;common--静态资源公共资源<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css--css相关的文件
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;img--图片文件
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;js--js相关的文件
-&nbsp;&nbsp;&nbsp;&nbsp;views--视图相关的文件
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;login--登陆文件
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css--css相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;img--图片文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;js--js相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;views--视图相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;login--登陆文件<br/>
 
