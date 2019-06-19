@@ -31,3 +31,24 @@ Battlefield（战场）
 
 开发工具：eclipse
 开发平台：win10
+
+
+BattlefieldWebP---php开发<br/>
+BattlefieldWebJ---java开发<br/>
+BattlefieldP----python开发<br/>
+
+BattlefieldWebP模块设计<br/>
+common---存放php公共模块<br/>
+conf -- 存放php相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;db---数据库相关的配置<br/>
+core---php核心模块<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;service ---逻辑处理<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;dao ---数据操作层<br/>
+statis--静态资源和页面<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;common--静态资源公共资源<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;css--css相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;img--图片文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;js--js相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;views--视图相关的文件<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;login--登陆文件<br/>
+

@@ -1,0 +1,7 @@
+<?php
+	
+	class Person{
+		public const I = 1;
+		
+	}
+?>

@@ -1,0 +1,9 @@
+<?php
+	/**
+	 * 编码配置
+	 */
+	abstract class EcodingNum{
+		const UTF_8 = "UTF-8";
+		const UTF8 = "UTF8";
+	}
+?>

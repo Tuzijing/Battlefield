@@ -1,0 +1,11 @@
+<?php
+	
+	class Person{
+		  const I = 1;
+		
+	}
+	
+	class Pesong{
+		final II = "111
+	} 
+?>

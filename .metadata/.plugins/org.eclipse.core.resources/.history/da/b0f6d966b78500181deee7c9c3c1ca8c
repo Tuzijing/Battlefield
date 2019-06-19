@@ -1,0 +1,14 @@
+<?php
+	
+	class Person{
+		  const I = 1;
+		
+	}
+	
+	class Pesong{
+		
+	}
+	class Son1 extends Person,Pesong{
+		
+	}
+?>
